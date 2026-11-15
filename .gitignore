@@ -1,0 +1,6 @@
+.venv/
+tools/
+work/
+__pycache__/
+*.pyc
+tasks.jsonl
